@@ -1,0 +1,72 @@
+[
+    {
+      "title": "Prisioneiros da Mente",
+      "price": 20,
+      "writer": "Augusto Cury",
+      "thumbnailHd": "https://images-na.ssl-images-amazon.com/images/I/51MRErYPVBL.jpg",
+      "date": "26/11/2015"
+    },
+    {
+      "title": "O Poder do Hábito",
+      "price": 30,
+      "writer": "Charles Duhigg",
+      "thumbnailHd": "https://www.publishnews.com.br/estaticos/uploads/2015/08/SSD47DiXYZczBBE1UhKU68VrA4oTA6NAqe5Ic5C1TQhKgsEcy1Ch5BusqeN1UnCfhi4TqzETdEbcokXI.jpg",
+      "date": "26/11/2015"
+    },
+    {
+      "title": "Harry Potter e as Relíquias da Morte",
+      "price": 50,
+      "writer": "J. K. Rowling",
+      "thumbnailHd": "http://statics.livrariacultura.net.br/products/capas_lg/293/3220293.jpg",
+      "date": "20/11/2015"
+    },
+    {
+      "title": "A Guerra dos Tronos",
+      "price": 90,
+      "writer": "George R. R. Martin",
+      "thumbnailHd": "https://http2.mlstatic.com/game-of-thrones-a-guerra-dos-tronos-livro-1-D_NQ_NP_723824-MLB27230131855_042018-F.jpg",
+      "date": "29/10/2015"
+    },
+    {
+      "title": "A Arte da Guerra",
+      "price": 25,
+      "writer": "Sun Tzu",
+      "thumbnailHd": "https://i.pinimg.com/originals/4d/60/b2/4d60b2b5f02328edb9a2978167cdf6b9.jpg",
+      "date": "26/10/2015"
+    },
+    {
+      "title": "O Hobbit",
+      "price": 32,
+      "writer": "J. R. R. Tolkien",
+      "thumbnailHd": "https://http2.mlstatic.com/livro-o-hobbit-j-r-r-tolkien-novo-D_NQ_NP_447015-MLB25218976225_122016-F.jpg",
+      "date": "26/10/2015"
+    },
+    {
+      "title": "Jogos Vorazes",
+      "price": 16,
+      "writer": "Suzanne Collins",
+      "thumbnailHd": "https://images-submarino.b2w.io/produtos/01/00/item/7168/7/7168736_1GG.jpg",
+      "date": "25/10/2015"
+    },
+    {
+      "title": "O Código Da Vinci",
+      "price": 42,
+      "writer": "Dan Brown",
+      "thumbnailHd": "https://images-submarino.b2w.io/produtos/01/00/item/327/4/327439_1GG.jpg",
+      "date": "22/10/2015"
+    },
+    {
+      "title": "Eragon",
+      "price": 14,
+      "writer": "Christopher Paolini",
+      "thumbnailHd": "https://statics.livrariacultura.net.br/products/capas_lg/087/1358087.jpg",
+      "date": "22/10/2015"
+    },
+    {
+      "title": "Memórias Póstumas de Brás Cubas",
+      "price": 72,
+      "writer": "Machado de Assis",
+      "thumbnailHd": "https://mundoeducacao.bol.uol.com.br/upload/conteudo_legenda/4230f70d3f6efaefb1b0f82d0d705f9e.jpg",
+      "date": "21/10/2015"
+    }
+  ]
