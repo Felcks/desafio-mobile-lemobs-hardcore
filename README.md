@@ -30,7 +30,7 @@ Um livro tem as seguintes informações:
 ### Lista de livros à venda
 
 O aplicativo deve mostrar a lista de livros à venda.
-Para obter os livros da loja, sua aplicação deverá realizar uma chamada `GET` na URL https://raw.githubusercontent.com/Felcks/desafio-mobile-lemobs/master/products.json
+Para obter os livros da loja, sua aplicação deverá realizar uma chamada `GET` na URL https://raw.githubusercontent.com/Felcks/desafio-mobile-lemobs-hardcore/master/products.json
 
 Um livro à venda tem as seguintes informações:
 + Nome [title]
