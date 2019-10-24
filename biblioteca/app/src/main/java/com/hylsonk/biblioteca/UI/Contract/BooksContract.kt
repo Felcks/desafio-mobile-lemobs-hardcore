@@ -6,6 +6,6 @@ interface BooksContract {
     }
 
     interface Presenter {
-        fun getBooks()
+        fun getBooks(): Array<String>
     }
 }

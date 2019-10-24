@@ -7,10 +7,7 @@ class BooksPresenter (private val view: BooksContract.View,
                       private val repositoryBooks: RepositoryBooks
 ) : BooksContract.Presenter {
 
-    override fun getBooks() {
-
-        val books = repositoryBooks.getBooks()
-
-        view.mostraDados(books);
+    override fun getBooks(): Array<String> {
+        return repositoryBooks.getBooks()
     }
 }
