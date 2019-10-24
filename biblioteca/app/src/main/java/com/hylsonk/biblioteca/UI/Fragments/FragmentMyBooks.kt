@@ -9,8 +9,9 @@ import android.widget.ListView
 import androidx.fragment.app.Fragment
 import com.hylsonk.biblioteca.R
 
-class FragmentBookStore : Fragment() {
+class FragmentMyBooks : Fragment() {
 
+    lateinit var list: ListView
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
     }
@@ -20,7 +21,7 @@ class FragmentBookStore : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.fragment_store, container, false)
+        return inflater.inflate(R.layout.fragment_list, container, false)
     }
 
     override fun onAttach(context: Context?) {
